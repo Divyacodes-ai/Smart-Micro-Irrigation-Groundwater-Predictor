@@ -1,4 +1,10 @@
 # Smart-Micro-Irrigation-Groundwater-Predictor
+## Team Details
+
+**Team Name:** Tech Titans
+
+**Project Name:** Smart Micro Irrigation & Groundwater Predictor
+
 !DOCTYPE html>
 <html lang="en">
 <head>
