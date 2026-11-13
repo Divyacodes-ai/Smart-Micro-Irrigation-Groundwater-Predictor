@@ -1,4 +1,4 @@
-# Smart-Micro-Irrigation-Groundwater-Predictor
+ Smart-Micro-Irrigation-Groundwater-Predictor
 ## Team Details
 
 **Team Name:** Tech Titans
